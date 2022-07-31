@@ -10,8 +10,8 @@ def main():
     browser = webbrowser.get("firefox")
 
     url1 = "http://www.stackoverflow.com"
-    url2 = "http://www.stackexchange.com"
-    url3 = "https://inventwithpython.com/"
+    url2 = "https://www.linkedin.com"
+    url3 = "https://inventwithpython.com"
 
     urls = [url1, url2, url3]
 
